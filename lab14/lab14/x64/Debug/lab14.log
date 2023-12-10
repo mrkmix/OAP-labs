@@ -1,0 +1,4 @@
+﻿  lab14.cpp
+D:\Kiravnytsyn\OAiP labs\lab14\lab14\lab14.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Kiravnytsyn\OAiP labs\lab14\lab14\lab14.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab14.vcxproj -> D:\Kiravnytsyn\OAiP labs\lab14\x64\Debug\lab14.exe

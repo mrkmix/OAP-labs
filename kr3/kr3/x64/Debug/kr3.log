@@ -1,0 +1,3 @@
+﻿  kr3.cpp
+D:\Kiravnytsyn\OAiP labs\kr3\kr3\kr3.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  kr3.vcxproj -> D:\Kiravnytsyn\OAiP labs\kr3\x64\Debug\kr3.exe

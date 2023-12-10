@@ -1,0 +1,3 @@
+﻿  lab15.cpp
+D:\Kiravnytsyn\OAiP labs\lab15\lab15\lab15.cpp(35,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab15.vcxproj -> D:\Kiravnytsyn\OAiP labs\lab15\x64\Debug\lab15.exe

@@ -1,0 +1,4 @@
+﻿  lab12.cpp
+D:\Kiravnytsyn\OAiP labs\lab12\lab12\lab12.cpp(6,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Kiravnytsyn\OAiP labs\lab12\lab12\lab12.cpp(25,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab12.vcxproj -> D:\Kiravnytsyn\OAiP labs\lab12\x64\Debug\lab12.exe

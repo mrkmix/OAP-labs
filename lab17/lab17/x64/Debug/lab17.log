@@ -1,0 +1,4 @@
+﻿  lab17.cpp
+D:\Kiravnytsyn\OAiP labs\lab17\lab17\lab17.cpp(20,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Kiravnytsyn\OAiP labs\lab17\lab17\lab17.cpp(29,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab17.vcxproj -> D:\Kiravnytsyn\OAiP labs\lab17\x64\Debug\lab17.exe

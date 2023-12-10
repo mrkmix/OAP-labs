@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Kiravnytsyn\OAiP labs\test\test\test.cpp(28,86): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Kiravnytsyn\OAiP labs\test\test\test.cpp(32,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  test.vcxproj -> D:\Kiravnytsyn\OAiP labs\test\x64\Debug\test.exe
