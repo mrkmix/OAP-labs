@@ -1,0 +1,3 @@
+﻿  bruh.cpp
+D:\Kiravnytsyn\OAiP labs\bruh\bruh\bruh.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  bruh.vcxproj -> D:\Kiravnytsyn\OAiP labs\bruh\x64\Debug\bruh.exe

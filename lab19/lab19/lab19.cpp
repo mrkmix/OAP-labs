@@ -1,18 +1,16 @@
 ﻿#include <iostream>
-#include <cstdarg>
 using namespace std;
 
-int mn(int n, ...) {
-    va_list args;
-    va_start(args, n);
-    int max = va_arg(args, int);
-    for (int i = 1; i < n; i++) {
-        int num = va_arg(args, int);
-        if (num > max) max = num;
+int mn(int n, ...)
+{
+    int* p = &n;
+    int max = *p;
+    for (int i = 1; i <= n; i++) {
+        if (*(p+i) > max) max = *(p+i);
     }
-    va_end(args);
     return max;
 }
+
 
 double f1(double x) {
     return pow(x, 3) + 2 * x - 1;
